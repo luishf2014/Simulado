@@ -1,0 +1,28 @@
+1 - Criar um repositorio com o nome: SIMULADO
+2 - Cirar os arquivos A e B com editor de texto
+3 - Criar um prjeto java para ler os arquivos A e B e garar o C com orientada objeto (Objetos e lista)
+4 - versionar no GIT
+
+
+PESSOA.CSV
+CÓDGIO |   NOME  |
+   1   |  PAULO  |
+   2   |  CARLOS |
+   3   |   ANA   |
+
+
+ENDERECO.CSV
+
+   RUA  |   CIDADE  |   CÓDGIO   |
+
+  RUA A |  CURITIBA |     1      |
+  RUA B |  LONDRINA |     2      |
+  RUA C |  CURITIBA |     3      |
+
+PESSOACOMENDERECO.CSV
+
+  CÓDIGO  |  NOME   |    RUA    |   CIDADE   |
+
+    1     |  PAULO  |   RUA A   |  CURITIBA  |
+    1     |  PAULO  |   RUA B   |  SÃO PAULO |
+    3     |   ANA   |   RUA C   |  BLUMENAU  |
